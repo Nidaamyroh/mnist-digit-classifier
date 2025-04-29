@@ -28,3 +28,17 @@ This beginner project builds a Convolutional Neural Network (CNN) using TensorFl
 Test accuracy: 0.9823
 Predicted digit: 7
 ```
+### ✅ `.gitignore` (untuk Python project)
+
+---
+
+### ⚖️ `LICENSE` (MIT License)
+
+```text
+MIT License
+
+Copyright (c) 2025 [Nida amyroh]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files...
+
